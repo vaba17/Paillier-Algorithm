@@ -7,12 +7,12 @@ from time import time
 
 
 def gcd( a, b ):
-		while b != 0:
-			c = a % b
-			a = b
-			b = c
-		#a is returned if b == 0
-		return a
+	while b != 0:
+		c = a % b
+		a = b
+		b = c
+	#a is returned if b == 0
+	return a
 
 
 def pow(x, y):
