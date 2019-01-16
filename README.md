@@ -1,5 +1,5 @@
 # Paillier-Algorithm
-*Python
+* Python
 This code selects two prime numbers and takes a message bit and finds the encryption time and Decryption time.
 
 
